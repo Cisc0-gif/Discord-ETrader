@@ -1,0 +1,9 @@
+9/26/2020
+-- added /wallet, /info, and /donate commands
+-- added Discord UID (duid) to REGISTRY.db setup for later reference in /donate, /request, and transactiosn
+-- created sqlite3 DB for tracking accounts and UIDs between users
+
+9/30/2020
+-- added /help command, changed /donate to /send
+-- rewrote README.md and added suggestions for Anti-Spam Bots, Moderators, and a #Marketplace/#Shop channel
+-- Discord ETrader v1.0 Release!
